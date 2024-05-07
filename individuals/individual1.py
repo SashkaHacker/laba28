@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Выполнить индивидуальное задание 2 лабораторной работы 2.19, добавив аннтотации типов.
+# Выполнить проверку программы с помощью утилиты mypy.
+
+
 import argparse
 import json
 from datetime import datetime
